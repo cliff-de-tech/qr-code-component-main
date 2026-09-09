@@ -28,7 +28,7 @@ The component includes a QR code image, a heading, and supporting text. I used F
 
 ### Links
 
-- Solution URL: [Frontend Mentor solution](YOUR_FRONTEND_MENTOR_URL)
+- Solution URL: [Frontend Mentor solution](https://t.co/dthlZHykmw)
 - Live Site URL: [View the live site](https://cliff-de-tech.github.io/qr-code-component-main/)
 
 ## My process
